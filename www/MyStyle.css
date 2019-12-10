@@ -1,0 +1,318 @@
+	
+
+.ajax-file-upload {
+font-family: 'Open Sans', Arial, serif;
+background: #e84c3d;
+box-shadow: 0 2px 0 0 #c13929;
+color: #edf1f4;
+}
+.ajax-file-upload:hover {
+background: #d24336;
+box-shadow: 0 2px 0 0 #a62f23;
+}
+.ajax-upload-dragdrop {
+margin: auto;
+}
+	
+	
+	
+ @media (min-width: 992px) {
+          /* acá van las reglas CSS que aplican para este media query para laptop */   
+	   #main_login{
+	   width:25%;
+	   margin-left:35%;
+	   }
+	  
+	  
+	  #main_home{
+	   width:40%;
+	   margin-left:25%;
+	   
+	  }
+	  
+	  #main_myaccount{
+	   width:40%;
+	   margin-left:30%;
+	  
+	  }
+	  
+	  .ui-popup-container {
+	   width:550px;
+	  }
+	  
+	  
+	  .ui-select{
+	   width:300px;
+	   margin-left:10px;
+	  }
+	  
+	
+	  
+	  .jconfirm .jconfirm-box{
+	   width:50%;
+	  }
+	  
+	  
+	  
+	  #contendorMiSelect{
+		  
+		  margin-left:400px !important;
+	  }
+
+	 .ui-table, .ui-table-reflow{
+		   width:50%;
+		   margin-left: 30%;
+	   }
+		
+	  #texoObservacion{
+		 width:50% !important; 
+	  }
+	 
+	  #BtnGuardarCheck {
+		  width:40% !important;
+		  
+	  }
+	  
+	  
+	  .my-custom-scrollbar {
+        position: relative;
+        height: 260px;
+        overflow: auto;
+      }
+	  
+         .table-wrapper-scroll-y {
+          display: block;
+       }
+	  
+	  #gridview-checklist{
+		  width:60% !important;
+		   margin-left: 20%  !important;
+	  }
+	  
+	  
+	  
+	  #contendorAccidente,#ContendorEntregaRecepcion{
+		   width:60% !important;
+		   margin-left:20% !important;
+	  }
+	  
+	
+	 
+	   #lugar_acc,#relato_acc,#clima_acc,#explicacion_acc,#observacion_en{
+	    width:600px !important;
+		
+	   }
+	   
+	   .ui-checkbox{
+		 width: 150px; !important;
+	   }
+	   
+	 .ui-field-contain > label,.ui-field-contain .ui-controlgroup-label, .ui-field-contain > .ui-rangeslider > labe{
+	  width:300px;
+	  }
+ 
+ 
+       #contendorMiSelect_un,#contendorMiSelect_gestion,{
+		  
+		  margin-left:200px !important;
+	  }
+ 
+ 
+       #my-table-update,#my-table-edit_en{
+		    margin-left: 0% !important;
+		    width: 450px !important;
+	   }
+	   
+	   #selector_edicion_unidad{
+		   
+		    margin-left:40px;
+	   }
+	   
+	   #popupEdit_entrega{
+		    width: 570px !important;
+		   
+	   }
+	   
+	   #imagen_camion{
+		   
+		    margin-left:20% !important;
+	   }
+
+
+      #nuevoscampos{
+         margin-left:220px !important;
+      }
+
+
+
+ 
+	   }
+     
+	  
+	    @media only screen and (max-width: 991px) and (min-width: 768px) { 
+	   /* aca van las reglas CSS que aplican para este media query para tablet */ 
+	   
+	    
+  
+        #main_login{
+	      width:45%;
+	      margin-left:30%;
+	     }
+		 
+		 
+		 .jconfirm .jconfirm-box{
+	       width:50%;
+	      }
+		  
+		  #main_home{
+	      width:55%;margin-left:20%;
+	      }
+		  
+		  #main_myaccount{
+	      width:55%;margin-left:20%;
+	      }
+	  
+	  
+	  
+	  .ui-field-contain > label,.ui-field-contain .ui-controlgroup-label, .ui-field-contain > .ui-rangeslider > labe{
+	  width:300px;
+	  }
+	  
+	  
+	  
+	  #imagen_camion{
+		   
+		    margin-left:20% !important;
+	   }
+	   
+	   
+	    #contendorMiSelect{
+		  
+		  margin-left:250px !important;
+	  }
+	  
+	  
+	  .ui-table, .ui-table-reflow{
+		   width:70%;
+		   margin-left: 15%;
+	   }
+	   
+	   
+	   .my-custom-scrollbar {
+        position: relative;
+        height: 200px;
+        overflow: auto;
+      }
+	  
+         .table-wrapper-scroll-y {
+          display: block;
+       }
+	   
+	   
+	   #popupEdit_entrega{
+		    width: 555px !important;
+		   
+	   }
+	   
+	   #my-table-update,#my-table-edit_en{
+		    margin-left: 2% !important;
+		    width: 430px !important;
+	   }
+	   
+	   
+	   
+	    #contendorAccidente,#ContendorEntregaRecepcion{
+		   width:65% !important;
+		   margin-left:17% !important;
+	  }
+	   
+	   #lugar_acc,#relato_acc,#clima_acc,#explicacion_acc,#observacion_en{
+	    width:400px !important;
+		
+	   }
+	   
+	   
+	   
+
+
+#nuevoscampos{
+ margin-left:80px !important;
+}
+	  
+	  
+	  .ui-checkbox{
+		 width: 80px; !important;
+	   }
+	   
+	  
+	   
+	   
+        }
+	   
+	   
+	   
+	   
+	   @media only screen and (max-width: 767px) and (min-width: 576px) { 
+	   /* aca van las reglas CSS que aplican para este media query para mobil horizontal */
+
+        #imagen_camion{
+
+		    margin-left:25% !important;
+	   }
+	   
+	   
+	   #main_login{
+	      width:50%;
+	      margin-left:30%;
+	     }
+		 
+		  #main_home{
+	      width:65%;margin-left:20%;
+	     }
+		 
+		 
+		 .jconfirm .jconfirm-box{
+	       width:50%;
+	      }
+		  
+		   #main_myaccount{
+	      width:55%;margin-left:25%;
+	      }
+		  
+		  
+		  .ui-field-contain > label,.ui-field-contain .ui-controlgroup-label, .ui-field-contain > .ui-rangeslider > labe{
+	  width:260px;
+	  }
+	   
+	   }
+	   
+	   
+	   
+	   
+	    @media only screen and (max-width: 575px) and (min-width: 448px) { 
+	   /* aca van las reglas CSS que aplican para este media query para mobiles grandes */
+	   
+
+ #imagen_camion{
+
+		    margin-left:25% !important;
+	   }
+	   
+        #main_login{
+	      width:80%;
+	      margin-left:10%;
+	     }
+		 
+		 .jconfirm .jconfirm-box{
+	       width:80%;
+	      }
+		  
+		   #main_myaccount{
+	      width:75%;margin-left:15%;
+	      }
+		  
+		    .ui-field-contain > label,.ui-field-contain .ui-controlgroup-label, .ui-field-contain > .ui-rangeslider > labe{
+	  width:220px;
+	  }
+	   
+	   }
