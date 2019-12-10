@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<widget id="com.appgestionflota.disatel.ni"version="1.0.9" xmlns="http://www.w3.org/ns/widgets"
+<widget id="com.appgestionflota.disatel.ni" version="1.0.9" xmlns="http://www.w3.org/ns/widgets"
 xmlns:android="http://schemas.android.com/apk/res/android" xmlns:gap="http://phonegap.com/ns/1.0">
     <name>GestionFlota</name>
     <description>
@@ -99,16 +99,7 @@ xmlns:android="http://schemas.android.com/apk/res/android" xmlns:gap="http://pho
     </platform>
 
    <access origin="*"/>
-	<access origin=".*"/>
-	<access origin="appdisatelni.com" subdomains="true" />
-	<access origin="191.98.228.86" subdomains="true"/>
-	<access origin="*.191.98.228.86" subdomains="true"/>
-	<access origin="http://127.0.0.1*"/>
-	<access origin="content:///*" />
-	
-	<allow-navigation href="*" />
-	<allow-navigation href="http://*/*" />
-    <allow-navigation href="https://*/*" />
+
 
 	 
     <allow-intent href="http://*/*" />
@@ -118,8 +109,7 @@ xmlns:android="http://schemas.android.com/apk/res/android" xmlns:gap="http://pho
     <allow-intent href="mailto:*" />
     <allow-intent href="geo:*" />
 	
- 
-	
+
 	
 <platform name="android">
 	<allow-intent href="market:*" />
@@ -139,14 +129,4 @@ xmlns:android="http://schemas.android.com/apk/res/android" xmlns:gap="http://pho
 <application android:usesCleartextTraffic="true" />
 </config-file>
 	
-		 
-	
-	<network-security-config>
-   <domain-config cleartextTrafficPermitted="true">
-     <domain>191.98.228.86</domain>
-	 <domain includeSubdomains="true">appdisatelni.com</domain>
-	 <domain>appdisatelni.com</domain>
-	 <domain>maps.googleapis.com</domain>
-   </domain-config>
-   </network-security-config>
 </widget>
