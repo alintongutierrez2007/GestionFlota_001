@@ -27,25 +27,25 @@ xmlns:android="http://schemas.android.com/apk/res/android" xmlns:gap="http://pho
 
 
     <platform name="android">
-         <icon density="ldpi" src="www/res/icon/android/Gestion40.png" />
-        <icon density="mdpi" src="www/res/icon/android/Gestion40.png" />
-        <icon density="hdpi" src="www/res/icon/android/Gestion64.png" />
-        <icon density="xhdpi" src="www/res/icon/android/Gestion64.png" />
-        <icon density="xxhdpi" src="www/res/icon/android/Gestion128.png" />
-        <icon density="xxxhdpi" src="www/res/icon/android/Gestion128.png" />
+         <icon density="ldpi" src="www/res/icon/android/icono32.png" />
+        <icon density="mdpi" src="www/res/icon/android/icono32.png" />
+        <icon density="hdpi" src="www/res/icon/android/icono64.png" />
+        <icon density="xhdpi" src="www/res/icon/android/icono64.png" />
+        <icon density="xxhdpi" src="www/res/icon/android/icono128.png" />
+        <icon density="xxxhdpi" src="www/res/icon/android/icono128.png" />
 		
-        <splash density="land-ldpi" src="www/res/screen/android/Gestion128.png" />
-        <splash density="land-mdpi" src="www/res/screen/android/Gestion128.png" />
-        <splash density="land-hdpi" src="www/res/screen/android/Gestion128.png" />
-        <splash density="land-xhdpi" src="www/res/screen/android/Gestion128.png" />
-        <splash density="land-xxhdpi" src="www/res/screen/android/Gestion128.png" />
-        <splash density="land-xxxhdpi" src="www/res/screen/android/Gestion128.png" />
-        <splash density="port-ldpi" src="www/res/screen/android/Gestion128.png" />
-        <splash density="port-mdpi" src="www/res/screen/android/Gestion128.png" />
-        <splash density="port-hdpi" src="www/res/screen/android/Gestion128.png" />
-        <splash density="port-xhdpi" src="www/res/screen/android/Gestion128.png" />
-        <splash density="port-xxhdpi" src="www/res/screen/android/Gestion128.png" />
-        <splash density="port-xxxhdpi" src="www/res/screen/android/Gestion128.png" />
+        <splash density="land-ldpi" src="www/res/screen/android/icono128.png" />
+        <splash density="land-mdpi" src="www/res/screen/android/icono128.png" />
+        <splash density="land-hdpi" src="www/res/screen/android/icono128.png" />
+        <splash density="land-xhdpi" src="www/res/screen/android/icono128.png" />
+        <splash density="land-xxhdpi" src="www/res/screen/android/icono128.png" />
+        <splash density="land-xxxhdpi" src="www/res/screen/android/icono128.png" />
+        <splash density="port-ldpi" src="www/res/screen/android/icono128.png" />
+        <splash density="port-mdpi" src="www/res/screen/android/icono128.png" />
+        <splash density="port-hdpi" src="www/res/screen/android/icono128.png" />
+        <splash density="port-xhdpi" src="www/res/screen/android/icono128.png" />
+        <splash density="port-xxhdpi" src="www/res/screen/android/icono128.png" />
+        <splash density="port-xxxhdpi" src="www/res/screen/android/icono128.png" />
     </platform>
     <platform name="ios">
         <icon height="57" platform="ios" src="www/res/icon/ios/icon.png" width="57" />
